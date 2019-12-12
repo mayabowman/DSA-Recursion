@@ -8,3 +8,5 @@ const stringSplitter = (str) => {
 }
 
 stringSplitter('split')
+
+// Time complexity: Linear time, running time directly proportional to size of input

@@ -19,3 +19,5 @@ function getAllPermutations(str) {
 }
 
 getAllPermutations('east')
+
+// Time complexity: Polynomial time, running time is unput raised to some power, nested loops

@@ -10,3 +10,5 @@ function reverseString(string) {
 }
 
 reverseString('reverse')
+
+// Time complexity: Linear Time, directly proportional to size of input

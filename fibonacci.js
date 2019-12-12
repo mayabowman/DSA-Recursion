@@ -7,3 +7,6 @@ const fibonacci = (num) => {
 }
 
 fibonacci(7)
+
+// Time complexity: Exponential time, running times grow rapidly with any increase in input size
+

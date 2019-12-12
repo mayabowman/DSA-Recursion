@@ -10,6 +10,8 @@ function countSheep(num) {
 
 countSheep(3)
 
+// Time complexity: Linear Time, directly proportional to size of input
+
 
 
 

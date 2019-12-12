@@ -10,3 +10,5 @@ function powerCalculator(base, exp) {
 }
 
 powerCalculator(3, 3)
+
+// Time complexity: Linear Time, directly proportional to size of input

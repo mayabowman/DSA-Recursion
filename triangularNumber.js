@@ -7,3 +7,5 @@ const triangularNumber = (n) => {
 }
 
 triangularNumber(4)
+
+// Time complexity: Exponential time, running times grow rapidly with any increase in input size
